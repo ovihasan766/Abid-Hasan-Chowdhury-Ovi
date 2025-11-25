@@ -52,7 +52,7 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 
 
 ## 📈 Superstore Sales Performance and Profitability Analysis (Tableau)
-![Tableau Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/Tableau%20Project.jpeg)
+![Tableau Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/Tableau_Project/Tableau%20Project.jpeg)
 
 ---
 

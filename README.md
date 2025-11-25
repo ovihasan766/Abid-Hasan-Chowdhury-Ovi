@@ -38,7 +38,7 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 * [Link to Live Tableau Public Dashboard](https://public.tableau.com/app/profile/ovi.hasan/viz/SuperstoreSalesPerformanceandProfitabilityAnalysis/Dashboard1?publish=ye)
 
 ## 📈 Superstore Sales and Profitability Analysis (Tableau)
-![Tableau Dashboard](https://github.com/your-username/your-repo-name/blob/main/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/Tableau%20Project.jpeg)
 
 ---
 
